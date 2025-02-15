@@ -1,0 +1,2 @@
+# bashparty
+random bash scritpts 
