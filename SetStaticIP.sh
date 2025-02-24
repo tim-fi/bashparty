@@ -2,7 +2,7 @@
 
 #Script to set static ip infos t.fichtl@airitsystems.de
 #First try of a bash script for a while, crappy code, i know. Use it with caution. If you have any improvements/ideas, let me know.
-#TODO ==> refactor code and add more checks, to not mess it up.... making a main function to avoid recusion
+#TODO ==> refactor code and add more checks, to not mess it up.... making a main function to avoid recursion and unexpected script end
 
 ipValidation() {
 #local locIP = "$1"
