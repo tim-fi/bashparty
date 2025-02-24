@@ -119,7 +119,7 @@ echo | netplan try --config-file /tmp/60-static-ip.yaml
 )
 
 
-printf "\n\nHi there! We are going to set you a static / persistent IP Address on a Ubuntu 24.4 machine using Netplan\n\n"
+printf "\n\nHi there! We are going to set you a static / persistent IP Address on a Ubuntu 24.4 machine using Netplan\n\nDo not use in production environment"
 
 
 chkRoot
